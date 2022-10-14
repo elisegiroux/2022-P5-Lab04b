@@ -29,15 +29,15 @@ public class Lab04bvst extends Applet
 
         // DRAW SPHERE
 
-           g.drawOval(875,75,50,200);
-           g.drawOval(850,75,100,200);
-           g.drawOval(825,75,150,200);
-           g.drawOval(812,75,175,200);
-           g.drawOval(800,75,200,200);
+           g.drawOval(135,135,50,200);
+           g.drawOval(110,135,100,200);
+           g.drawOval(85,135,150,200);
+           g.drawOval(72,135,175,200);
+           g.drawOval(60,135,200,200);
 
-           g.drawOval(800,150,200,50);
-           g.drawOval(800,125,200,100);
-           g.drawOval(800,100,200,150);
+           g.drawOval(60,210,200,50);
+           g.drawOval(60,185,200,100);
+           g.drawOval(60,160,200,150);
 
 
 
